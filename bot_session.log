@@ -1,0 +1,1060 @@
+2026-03-06 06:08:34,910 [INFO] ========== INSTAGRAM ANDROID BOT STARTED ==========
+2026-03-06 06:08:34,911 [INFO] Niche: roblox
+2026-03-06 06:08:34,911 [INFO] Session started | niche='roblox' | duration=26.1 min (1566 s)
+2026-03-06 06:08:34,912 [INFO] ── Video #0 │ elapsed 0.0 min │ remaining 26.1 min ──────────────
+2026-03-06 06:08:35,316 [INFO] Caption : 🎙🎶 …
+2026-03-06 06:08:35,316 [INFO] Hashtags: None
+2026-03-06 06:08:36,237 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 06:08:37,004 [INFO] Label: {'label': 2} | niche_match=False
+2026-03-06 06:08:42,161 [INFO] ── Video #1 │ elapsed 0.1 min │ remaining 26.0 min ──────────────
+2026-03-06 06:08:42,644 [INFO] Caption : Tag your bro 🤝 …
+2026-03-06 06:08:42,644 [INFO] Hashtags: None
+2026-03-06 06:08:43,089 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 06:08:43,648 [INFO] Label: {'label': 2} | niche_match=False
+2026-03-06 06:08:47,762 [INFO] ── Video #2 │ elapsed 0.2 min │ remaining 25.9 min ──────────────
+2026-03-06 06:08:48,404 [INFO] Caption : Tag that duo 🚩🥱 …
+2026-03-06 06:08:48,405 [INFO] Hashtags: None
+2026-03-06 06:08:48,841 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 06:08:49,554 [INFO] Label: {'label': 2} | niche_match=False
+2026-03-06 06:08:54,701 [INFO] ── Video #3 │ elapsed 0.3 min │ remaining 25.8 min ──────────────
+2026-03-06 06:08:55,172 [INFO] Caption : You❤️ …
+2026-03-06 06:08:55,172 [INFO] Hashtags: None
+2026-03-06 06:08:55,631 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 06:08:56,097 [INFO] Label: {'label': 0} | niche_match=False
+2026-03-06 06:08:59,954 [INFO] Interrupted by user (Ctrl-C).
+2026-03-06 06:08:59,954 [INFO] ========== BOT STOPPED | total runtime: 0.4 min ==========
+2026-03-06 06:11:19,134 [INFO] ========== INSTAGRAM ANDROID BOT STARTED ==========
+2026-03-06 06:11:19,134 [INFO] Niche: roblox
+2026-03-06 06:11:19,135 [INFO] Session started | niche='roblox' | duration=29.3 min (1756 s)
+2026-03-06 06:11:19,135 [INFO] ── Video #0 │ elapsed 0.0 min │ remaining 29.3 min ──────────────
+2026-03-06 06:11:25,603 [INFO] Caption : None
+2026-03-06 06:11:25,604 [INFO] Hashtags: #L IJapan is turning footsteps into electricityl Using piezoelectric tiles, step
+2026-03-06 06:11:26,288 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 06:11:27,005 [INFO] Label: {'label': 0} | niche_match=False
+2026-03-06 06:11:29,118 [INFO] Liked video.
+2026-03-06 06:11:29,118 [INFO] Liked video (no-match organic roll).
+2026-03-06 06:11:33,581 [INFO] ── Video #1 │ elapsed 0.2 min │ remaining 29.0 min ──────────────
+2026-03-06 06:11:38,744 [INFO] Caption : Where else?
+2026-03-06 06:11:38,744 [INFO] Hashtags: #meme #memes #robloxmemes #robloxmeme #memeroblox
+2026-03-06 06:11:39,190 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 06:11:39,663 [INFO] Label: {'label': 1} | niche_match=True
+2026-03-06 06:11:39,664 [INFO] Niche match — watching extra 7.8s before engaging.
+2026-03-06 06:11:47,723 [INFO] Like count: 330,027
+2026-03-06 06:11:49,858 [INFO] Liked video.
+2026-03-06 06:11:56,204 [INFO] Link copied: https://www.instagram.com/reel/DOWOIrNCb5t/?igsh=Z3l5YzFwYjI2MWFn
+2026-03-06 06:11:56,205 [INFO] Saved URL: https://www.instagram.com/reel/DOWOIrNCb5t/?igsh=Z3l5YzFwYjI2MWFn  (likes: 330,027)
+2026-03-06 06:12:03,439 [INFO] ── Video #2 │ elapsed 0.7 min │ remaining 28.5 min ──────────────
+2026-03-06 06:12:07,968 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 06:12:12,938 [INFO] ── Video #3 │ elapsed 0.9 min │ remaining 28.4 min ──────────────
+2026-03-06 06:12:13,027 [ERROR] extract_caption_and_hashtags error:
+Traceback (most recent call last):
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\uiautomator2\core.py", line 97, in connect
+    self.sock = self.__device.create_connection(adbutils.Network.TCP, self.__port)
+                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\adbutils\_device_base.py", line 608, in create_connection
+    c = self.open_transport()
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\adbutils\_device_base.py", line 92, in open_transport
+    c.check_okay()
+    ~~~~~~~~~~~~^^
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\adbutils\_adb.py", line 192, in check_okay
+    raise AdbError(self.read_string_block())
+adbutils.errors.AdbError: device 'ROQKZT8PKJQODM5D' not found
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\uiautomator2\core.py", line 311, in jsonrpc_call
+    return _jsonrpc_call(self._dev, self._device_server_port, method, params, timeout, self._debug)
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\uiautomator2\core.py", line 173, in _jsonrpc_call
+    r = _http_request(dev, device_port, "POST", "/jsonrpc/0", payload, timeout=timeout, print_request=print_request)
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\uiautomator2\core.py", line 139, in _http_request
+    conn.request(method, path, json.dumps(data), headers=headers)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\http\client.py", line 1358, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\http\client.py", line 1404, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\http\client.py", line 1353, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\http\client.py", line 1113, in _send_output
+    self.send(msg)
+    ~~~~~~~~~^^^^^
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\http\client.py", line 1057, in send
+    self.connect()
+    ~~~~~~~~~~~~^^
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\uiautomator2\core.py", line 99, in connect
+    raise HTTPError(f"Unable to connect to uiautomator2 server: {e}") from e
+uiautomator2.exceptions.HTTPError: Unable to connect to uiautomator2 server: device 'ROQKZT8PKJQODM5D' not found
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ROG STRIX G15\Downloads\insta_android_bot\insta_android_bot\src\scraper.py", line 149, in extract_caption_and_hashtags
+    if not caption_root.exists:
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\uiautomator2\utils.py", line 131, in __bool__
+    return self.__nonzero__()
+           ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\uiautomator2\utils.py", line 127, in __nonzero__
+    return self.uiobject.jsonrpc.exist(self.uiobject.selector)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\uiautomator2\base.py", line 158, in __call__
+    return self.server.jsonrpc_call(self.method, params, http_timeout)
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\uiautomator2\core.py", line 315, in jsonrpc_call
+    self.start_uiautomator()
+    ~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\uiautomator2\core.py", line 231, in start_uiautomator
+    self._setup_jar()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\uiautomator2\core.py", line 242, in _setup_jar
+    if self._check_device_file_hash(jar_path, target_path):
+       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\uiautomator2\core.py", line 255, in _check_device_file_hash
+    output = self._dev.shell(["toybox", "md5sum", remote_file])
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\adbutils\_device_base.py", line 252, in shell
+    c = self.open_shell(cmdargs)
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\adbutils\_device_base.py", line 175, in open_shell
+    c = self.open_transport()
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\adbutils\_device_base.py", line 92, in open_transport
+    c.check_okay()
+    ~~~~~~~~~~~~^^
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\adbutils\_adb.py", line 192, in check_okay
+    raise AdbError(self.read_string_block())
+adbutils.errors.AdbError: device 'ROQKZT8PKJQODM5D' not found
+
+2026-03-06 06:12:13,030 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 06:12:13,044 [ERROR] Fatal error:
+Traceback (most recent call last):
+  File "C:\Users\ROG STRIX G15\Downloads\insta_android_bot\insta_android_bot\bot.py", line 70, in main
+    run_scroll_session(niche=niche)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\ROG STRIX G15\Downloads\insta_android_bot\insta_android_bot\src\scroll_session.py", line 99, in run_scroll_session
+    scraper.swipe_next_video()
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ROG STRIX G15\Downloads\insta_android_bot\insta_android_bot\src\scraper.py", line 449, in swipe_next_video
+    width, height = d.window_size()
+                    ~~~~~~~~~~~~~^^
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\uiautomator2\__init__.py", line 56, in window_size
+    w, h = self._dev.window_size()
+           ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\adbutils\shell.py", line 158, in window_size
+    wsize = self._wm_size()
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\adbutils\shell.py", line 165, in _wm_size
+    output = self.shell("wm size")
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\adbutils\_device_base.py", line 252, in shell
+    c = self.open_shell(cmdargs)
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\adbutils\_device_base.py", line 175, in open_shell
+    c = self.open_transport()
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\adbutils\_device_base.py", line 92, in open_transport
+    c.check_okay()
+    ~~~~~~~~~~~~^^
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\adbutils\_adb.py", line 192, in check_okay
+    raise AdbError(self.read_string_block())
+adbutils.errors.AdbError: device 'ROQKZT8PKJQODM5D' not found
+
+2026-03-06 06:12:13,045 [INFO] ========== BOT STOPPED | total runtime: 0.9 min ==========
+2026-03-06 06:17:48,058 [INFO] ========== INSTAGRAM ANDROID BOT STARTED ==========
+2026-03-06 06:17:48,059 [INFO] Niche: roblox
+2026-03-06 06:17:48,059 [INFO] Session started | niche='roblox' | duration=28.9 min (1734 s)
+2026-03-06 06:17:48,059 [INFO] ── Video #0 │ elapsed 0.0 min │ remaining 28.9 min ──────────────
+2026-03-06 06:17:54,220 [INFO] Caption : Game: Mystery Life RP
+2026-03-06 06:17:54,220 [INFO] Hashtags: #meme #memes #robloxmemes #robloxmeme #memeroblox
+2026-03-06 06:17:55,031 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 06:17:55,557 [INFO] Label: {'label': 1} | niche_match=True
+2026-03-06 06:17:55,557 [INFO] Niche match — watching extra 7.6s before engaging.
+2026-03-06 06:18:03,466 [INFO] Like count: 47,910
+2026-03-06 06:18:05,538 [INFO] Liked video.
+2026-03-06 06:18:14,022 [INFO] Link copied: https://www.instagram.com/reel/DVBdg3zkkhe/?igsh=Y3dvbzdwMDhnYnR4
+2026-03-06 06:18:14,024 [INFO] Saved URL: https://www.instagram.com/reel/DVBdg3zkkhe/?igsh=Y3dvbzdwMDhnYnR4  (likes: 47,910)
+2026-03-06 06:18:18,130 [INFO] ── Video #1 │ elapsed 0.5 min │ remaining 28.4 min ──────────────
+2026-03-06 06:18:22,826 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 06:18:27,712 [INFO] ── Video #2 │ elapsed 0.7 min │ remaining 28.2 min ──────────────
+2026-03-06 06:18:32,046 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 06:18:36,565 [INFO] ── Video #3 │ elapsed 0.8 min │ remaining 28.1 min ──────────────
+2026-03-06 06:18:38,557 [INFO] Interrupted by user (Ctrl-C).
+2026-03-06 06:18:38,557 [INFO] ========== BOT STOPPED | total runtime: 0.8 min ==========
+2026-03-06 06:18:51,832 [INFO] ========== INSTAGRAM ANDROID BOT STARTED ==========
+2026-03-06 06:18:51,833 [INFO] Niche: roblox
+2026-03-06 06:18:51,833 [INFO] Session started | niche='roblox' | duration=25.1 min (1509 s)
+2026-03-06 06:18:51,833 [INFO] ── Video #0 │ elapsed 0.0 min │ remaining 25.1 min ──────────────
+2026-03-06 06:18:56,773 [INFO] Caption : Don't
+2026-03-06 06:18:56,773 [INFO] Hashtags: #trending #reels #ramadan #muslim #viral
+2026-03-06 06:18:57,235 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 06:18:57,708 [INFO] Label: {'label': 0} | niche_match=False
+2026-03-06 06:19:01,588 [INFO] ── Video #1 │ elapsed 0.2 min │ remaining 25.0 min ──────────────
+2026-03-06 06:19:06,408 [INFO] Caption : None
+2026-03-06 06:19:06,409 [INFO] Hashtags: #fyp #viral #lifestyle #relatable
+2026-03-06 06:19:06,853 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 06:19:07,499 [INFO] Label: {'label': 0} | niche_match=False
+2026-03-06 06:19:11,331 [INFO] ── Video #2 │ elapsed 0.3 min │ remaining 24.8 min ──────────────
+2026-03-06 06:19:16,436 [INFO] Caption : Don't be rude guys
+2026-03-06 06:19:16,437 [INFO] Hashtags: #relatablememes #memes #foryou #funnyreels #fyp:
+2026-03-06 06:19:16,870 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 06:19:17,981 [INFO] Label: {'label': 0} | niche_match=False
+2026-03-06 06:19:28,773 [INFO] ── Video #3 │ elapsed 0.6 min │ remaining 24.5 min ──────────────
+2026-03-06 06:19:34,725 [INFO] Caption : Yeah Game: Mystery Life RP
+2026-03-06 06:19:34,725 [INFO] Hashtags: #meme #memes #robloxmemes #robloxmeme #memeroblox February 12
+2026-03-06 06:19:35,167 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 06:19:35,975 [INFO] Label: {'label': 1} | niche_match=True
+2026-03-06 06:19:35,975 [INFO] Niche match — watching extra 7.8s before engaging.
+2026-03-06 06:19:44,055 [INFO] Like count: 5,226
+2026-03-06 06:19:46,259 [INFO] Liked video.
+2026-03-06 06:19:52,689 [INFO] Link copied: https://www.instagram.com/reel/DUqRKviiqoz/?igsh=eW9oano0MndsN2k=
+2026-03-06 06:19:52,690 [INFO] Saved URL: https://www.instagram.com/reel/DUqRKviiqoz/?igsh=eW9oano0MndsN2k=  (likes: 5,226)
+2026-03-06 06:19:58,976 [INFO] ── Video #4 │ elapsed 1.1 min │ remaining 24.0 min ──────────────
+2026-03-06 06:20:04,954 [INFO] Caption : Yeah Game: Mystery Life RP
+2026-03-06 06:20:04,955 [INFO] Hashtags: #meme #memes #robloxmemes #robloxmeme #memeroblox February 12
+2026-03-06 06:20:05,384 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 06:20:06,036 [INFO] Label: {'label': 1} | niche_match=True
+2026-03-06 06:20:06,037 [INFO] Niche match — watching extra 7.3s before engaging.
+2026-03-06 06:20:07,320 [INFO] Interrupted by user (Ctrl-C).
+2026-03-06 06:20:07,321 [INFO] ========== BOT STOPPED | total runtime: 1.3 min ==========
+2026-03-06 06:25:58,064 [INFO] ========== INSTAGRAM ANDROID BOT STARTED ==========
+2026-03-06 06:25:58,065 [INFO] Niche: roblox
+2026-03-06 06:25:58,065 [INFO] Session started | niche='roblox' | duration=30.7 min (1842 s)
+2026-03-06 06:25:58,065 [INFO] ── Video #0 │ elapsed 0.0 min │ remaining 30.7 min ──────────────
+2026-03-06 06:26:03,353 [INFO] Caption : oopssss_
+2026-03-06 06:26:03,354 [INFO] Hashtags: None
+2026-03-06 06:26:04,652 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 06:26:05,905 [INFO] Label: {'label': 2} | niche_match=False
+2026-03-06 06:26:12,891 [INFO] ── Video #1 │ elapsed 0.2 min │ remaining 30.5 min ──────────────
+2026-03-06 06:26:15,744 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 06:26:22,802 [INFO] ── Video #2 │ elapsed 0.4 min │ remaining 30.3 min ──────────────
+2026-03-06 06:26:23,136 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 06:26:28,659 [INFO] ── Video #3 │ elapsed 0.5 min │ remaining 30.2 min ──────────────
+2026-03-06 06:26:29,041 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 06:26:34,061 [INFO] ── Video #4 │ elapsed 0.6 min │ remaining 30.1 min ──────────────
+2026-03-06 06:26:34,355 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 06:26:38,091 [INFO] ── Video #5 │ elapsed 0.7 min │ remaining 30.0 min ──────────────
+2026-03-06 06:26:38,416 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 06:26:53,723 [INFO] ── Video #6 │ elapsed 0.9 min │ remaining 29.8 min ──────────────
+2026-03-06 06:26:59,256 [INFO] Caption : Follow for more
+2026-03-06 06:26:59,256 [INFO] Hashtags: #viral #fyp #roblox
+2026-03-06 06:26:59,725 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 06:27:01,165 [INFO] Label: {'label': 1} | niche_match=True
+2026-03-06 06:27:01,165 [INFO] Niche match — watching extra 7.9s before engaging.
+2026-03-06 06:27:09,328 [INFO] Like count: 8,369
+2026-03-06 06:27:11,815 [INFO] Liked video.
+2026-03-06 06:27:18,296 [INFO] Link copied: https://www.instagram.com/reel/DSLY4ynDJWX/?igsh=MWE2bGU2cXBycWRtZg==
+2026-03-06 06:27:18,298 [INFO] Saved URL: https://www.instagram.com/reel/DSLY4ynDJWX/?igsh=MWE2bGU2cXBycWRtZg==  (likes: 8,369)
+2026-03-06 06:27:20,910 [INFO] ── Video #7 │ elapsed 1.4 min │ remaining 29.3 min ──────────────
+2026-03-06 06:27:23,924 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 06:27:30,943 [INFO] ── Video #8 │ elapsed 1.5 min │ remaining 29.2 min ──────────────
+2026-03-06 06:27:31,202 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 06:27:35,395 [INFO] ── Video #9 │ elapsed 1.6 min │ remaining 29.1 min ──────────────
+2026-03-06 06:27:35,617 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 06:27:39,211 [INFO] ── Video #10 │ elapsed 1.7 min │ remaining 29.0 min ──────────────
+2026-03-06 06:27:39,274 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 06:27:43,363 [INFO] ── Video #11 │ elapsed 1.8 min │ remaining 29.0 min ──────────────
+2026-03-06 06:27:43,588 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 06:27:46,334 [INFO] Liked video.
+2026-03-06 06:27:46,334 [INFO] Liked video (no-match organic roll).
+2026-03-06 06:27:49,151 [INFO] ── Video #12 │ elapsed 1.9 min │ remaining 28.9 min ──────────────
+2026-03-06 06:27:55,124 [INFO] Caption : He's blind Game: Mystery Life RP by Steady_Kitty
+2026-03-06 06:27:55,125 [INFO] Hashtags: #meme #memes #robloxmemes #robloxmeme #memeroblox
+2026-03-06 06:27:55,585 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 06:27:56,243 [INFO] Label: {'label': 1} | niche_match=True
+2026-03-06 06:27:56,244 [INFO] Niche match — watching extra 7.3s before engaging.
+2026-03-06 06:28:03,915 [INFO] Like count: 27,812
+2026-03-06 06:28:09,896 [INFO] Link copied: https://www.instagram.com/reel/DP1mW4LjK4o/?igsh=MXY2MzBuZmp2amF0dw==
+2026-03-06 06:28:09,897 [INFO] Saved URL: https://www.instagram.com/reel/DP1mW4LjK4o/?igsh=MXY2MzBuZmp2amF0dw==  (likes: 27,812)
+2026-03-06 06:28:24,189 [INFO] ── Video #13 │ elapsed 2.4 min │ remaining 28.3 min ──────────────
+2026-03-06 06:28:29,889 [INFO] Caption : He's blind Game: Mystery Life RP by Steady_Kitty
+2026-03-06 06:28:29,890 [INFO] Hashtags: #meme #memes #robloxmemes #robloxmeme #memeroblox
+2026-03-06 06:28:30,320 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 06:28:30,696 [INFO] Label: {'label': 1} | niche_match=True
+2026-03-06 06:28:30,696 [INFO] Niche match — watching extra 6.7s before engaging.
+2026-03-06 06:28:37,640 [INFO] Like count: 27,812
+2026-03-06 06:28:58,767 [INFO] ── Video #14 │ elapsed 3.0 min │ remaining 27.7 min ──────────────
+2026-03-06 06:28:58,851 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 06:29:01,808 [INFO] ── Video #15 │ elapsed 3.1 min │ remaining 27.6 min ──────────────
+2026-03-06 06:29:01,847 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 06:29:08,002 [INFO] ── Video #16 │ elapsed 3.2 min │ remaining 27.5 min ──────────────
+2026-03-06 06:29:08,043 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 06:29:18,653 [INFO] ── Video #17 │ elapsed 3.3 min │ remaining 27.4 min ──────────────
+2026-03-06 06:29:18,697 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 06:29:22,787 [INFO] ── Video #18 │ elapsed 3.4 min │ remaining 27.3 min ──────────────
+2026-03-06 06:29:22,828 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 06:29:26,962 [INFO] ── Video #19 │ elapsed 3.5 min │ remaining 27.2 min ──────────────
+2026-03-06 06:29:27,003 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 06:29:38,849 [INFO] ── Video #20 │ elapsed 3.7 min │ remaining 27.0 min ──────────────
+2026-03-06 06:29:38,895 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 06:29:41,891 [INFO] ── Video #21 │ elapsed 3.7 min │ remaining 27.0 min ──────────────
+2026-03-06 06:29:41,935 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 06:29:46,432 [INFO] ── Video #22 │ elapsed 3.8 min │ remaining 26.9 min ──────────────
+2026-03-06 06:29:46,476 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 06:29:51,673 [INFO] ── Video #23 │ elapsed 3.9 min │ remaining 26.8 min ──────────────
+2026-03-06 06:29:51,716 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 06:29:57,440 [INFO] ── Video #24 │ elapsed 4.0 min │ remaining 26.7 min ──────────────
+2026-03-06 06:29:57,484 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 06:30:01,818 [INFO] ── Video #25 │ elapsed 4.1 min │ remaining 26.6 min ──────────────
+2026-03-06 06:30:01,857 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 06:30:08,452 [INFO] ── Video #26 │ elapsed 4.2 min │ remaining 26.5 min ──────────────
+2026-03-06 06:30:08,492 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 06:30:10,640 [INFO] Interrupted by user (Ctrl-C).
+2026-03-06 06:30:10,640 [INFO] ========== BOT STOPPED | total runtime: 4.2 min ==========
+2026-03-06 06:38:42,315 [INFO] ========== INSTAGRAM ANDROID BOT STARTED ==========
+2026-03-06 06:38:42,316 [INFO] Niche: roblox
+2026-03-06 06:38:42,316 [INFO] Session started | niche='roblox' | duration=25.3 min (1516 s)
+2026-03-06 06:38:42,316 [INFO] ── Video #0 │ elapsed 0.0 min │ remaining 25.3 min ──────────────
+2026-03-06 06:38:47,886 [INFO] Caption : like im doing 240km/h they act
+2026-03-06 06:38:47,887 [INFO] Hashtags: None
+2026-03-06 06:38:48,690 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 06:38:49,243 [INFO] Label: {'label': 0} | niche_match=False
+2026-03-06 06:38:54,682 [INFO] ── Video #1 │ elapsed 0.2 min │ remaining 25.1 min ──────────────
+2026-03-06 06:39:00,052 [INFO] Caption : Not always real
+2026-03-06 06:39:00,052 [INFO] Hashtags: None
+2026-03-06 06:39:00,927 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 06:39:01,230 [INFO] Label: {'label': 0} | niche_match=False
+2026-03-06 06:39:07,508 [INFO] ── Video #2 │ elapsed 0.4 min │ remaining 24.8 min ──────────────
+2026-03-06 06:39:13,338 [INFO] Caption : Just trying to take vitals at 3AM
+2026-03-06 06:39:13,339 [INFO] Hashtags: #healthcare #nightshift #sleep
+2026-03-06 06:39:13,766 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 06:39:14,328 [INFO] Label: {'label': 0} | niche_match=False
+2026-03-06 06:39:17,724 [INFO] ── Video #3 │ elapsed 0.6 min │ remaining 24.7 min ──────────────
+2026-03-06 06:39:24,554 [INFO] Caption : craziest head massage everr huge shoutout to @danish samlani.800 for kind and am
+2026-03-06 06:39:24,554 [INFO] Hashtags: #hairspa #hairmassage #girlthings #selfcare #viralreel being
+2026-03-06 06:39:24,990 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 06:39:25,338 [INFO] Label: {'label': 0} | niche_match=False
+2026-03-06 06:39:30,676 [INFO] ── Video #4 │ elapsed 0.8 min │ remaining 24.5 min ──────────────
+2026-03-06 06:39:36,585 [INFO] Caption : Game: Mystery Life RP
+2026-03-06 06:39:36,586 [INFO] Hashtags: #meme #memes #robloxmemes #robloxmeme #memeroblox
+2026-03-06 06:39:37,024 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 06:39:37,578 [INFO] Label: {'label': 1} | niche_match=True
+2026-03-06 06:39:37,578 [INFO] Niche match — watching extra 7.3s before engaging.
+2026-03-06 06:39:45,167 [INFO] Like count: 24,210
+2026-03-06 06:39:47,591 [INFO] Liked video.
+2026-03-06 06:39:54,250 [INFO] Link copied: https://www.instagram.com/reel/DUnsVaqjV9N/?igsh=MWV3bThpZmgzbHJwbg==
+2026-03-06 06:39:55,868 [INFO] Saved URL: https://www.instagram.com/reel/DUnsVaqjV9N/?igsh=MWV3bThpZmgzbHJwbg==  (likes: 24,210)
+2026-03-06 06:39:59,035 [INFO] ── Video #5 │ elapsed 1.3 min │ remaining 24.0 min ──────────────
+2026-03-06 06:40:04,925 [INFO] Caption : soooooo riyallle
+2026-03-06 06:40:04,926 [INFO] Hashtags: #instagram #reels #fyp > #explorepage #share
+2026-03-06 06:40:05,345 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 06:40:05,810 [INFO] Label: {'label': 0} | niche_match=False
+2026-03-06 06:40:11,633 [INFO] ── Video #6 │ elapsed 1.5 min │ remaining 23.8 min ──────────────
+2026-03-06 06:40:11,816 [INFO] Interrupted by user (Ctrl-C).
+2026-03-06 06:40:11,816 [INFO] ========== BOT STOPPED | total runtime: 1.5 min ==========
+2026-03-06 06:54:03,857 [INFO] ========== INSTAGRAM ANDROID BOT STARTED ==========
+2026-03-06 06:54:03,858 [INFO] Niche: roblox
+2026-03-06 06:54:03,858 [INFO] Session started | niche='roblox' | duration=30.3 min (1818 s)
+2026-03-06 06:54:03,859 [INFO] ── Video #0 │ elapsed 0.0 min │ remaining 30.3 min ──────────────
+2026-03-06 06:54:09,774 [INFO] Caption : When Im trying to sleep and a car pass by with music on:
+2026-03-06 06:54:09,775 [INFO] Hashtags: #roblox #robloxmemes #robloxdaily #robloxfyp
+2026-03-06 06:54:10,584 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 06:54:11,317 [INFO] Label: {'label': 1} | niche_match=True
+2026-03-06 06:54:11,317 [INFO] Niche match — watching extra 7.1s before engaging.
+2026-03-06 06:54:18,725 [INFO] Like count: 28,939
+2026-03-06 06:54:20,857 [INFO] Liked video.
+2026-03-06 06:54:27,579 [INFO] Link copied: https://www.instagram.com/reel/DPB5E68Eejd/?igsh=OGIwd3Mzc2huenJp
+2026-03-06 06:54:28,983 [INFO] Saved URL: https://www.instagram.com/reel/DPB5E68Eejd/?igsh=OGIwd3Mzc2huenJp  (likes: 28,939)
+2026-03-06 06:54:43,048 [INFO] ── Video #1 │ elapsed 0.7 min │ remaining 29.6 min ──────────────
+2026-03-06 06:54:48,454 [INFO] Caption : Do NOT hit me up after 9 Follow @cleandewy for morel OP: Gsydwingold
+2026-03-06 06:54:48,455 [INFO] Hashtags: None
+2026-03-06 06:54:48,899 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 06:54:49,678 [INFO] Label: {'label': 0} | niche_match=False
+2026-03-06 06:54:54,091 [INFO] ── Video #2 │ elapsed 0.8 min │ remaining 29.5 min ──────────────
+2026-03-06 06:55:00,311 [INFO] Caption : tried Game: Mystery Life RP
+2026-03-06 06:55:00,311 [INFO] Hashtags: #meme #memes #robloxmemes #robloxmeme #memeroblox
+2026-03-06 06:55:00,753 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 06:55:01,266 [INFO] Label: {'label': 1} | niche_match=True
+2026-03-06 06:55:01,267 [INFO] Niche match — watching extra 7.1s before engaging.
+2026-03-06 06:55:08,647 [INFO] Like count: 16,578
+2026-03-06 06:55:14,390 [INFO] Link copied: https://www.instagram.com/reel/DUYugnMDsqN/?igsh=MTZpdzYyaW91cTRvbw==
+2026-03-06 06:55:15,954 [INFO] Saved URL: https://www.instagram.com/reel/DUYugnMDsqN/?igsh=MTZpdzYyaW91cTRvbw==  (likes: 16,578)
+2026-03-06 06:55:26,934 [INFO] ── Video #3 │ elapsed 1.4 min │ remaining 28.9 min ──────────────
+2026-03-06 06:55:33,171 [INFO] Caption : How could she? Game: Mystery Life RP by Steady_Kitty
+2026-03-06 06:55:33,171 [INFO] Hashtags: #meme #memes #robloxmemes #robloxmeme #memeroblox
+2026-03-06 06:55:33,622 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 06:55:33,997 [INFO] Label: {'label': 1} | niche_match=True
+2026-03-06 06:55:33,997 [INFO] Niche match — watching extra 5.5s before engaging.
+2026-03-06 06:55:39,866 [INFO] Like count: 4,048
+2026-03-06 06:55:42,428 [INFO] Liked video.
+2026-03-06 06:55:46,969 [INFO] Like count 4,048 below 5,000 threshold — skipping link save.
+2026-03-06 06:55:50,907 [INFO] ── Video #4 │ elapsed 1.8 min │ remaining 28.5 min ──────────────
+2026-03-06 06:55:57,275 [INFO] Caption : Game: Mystery Life RP
+2026-03-06 06:55:57,276 [INFO] Hashtags: #meme #memes #robloxmemes #robloxmeme #memeroblox
+2026-03-06 06:55:57,774 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 06:55:58,205 [INFO] Label: {'label': 1} | niche_match=True
+2026-03-06 06:55:58,205 [INFO] Niche match — watching extra 7.7s before engaging.
+2026-03-06 06:56:06,094 [INFO] Like count: 3,673
+2026-03-06 06:56:06,095 [INFO] Like count 3,673 below 5,000 threshold — skipping link save.
+2026-03-06 06:56:12,165 [INFO] ── Video #5 │ elapsed 2.1 min │ remaining 28.2 min ──────────────
+2026-03-06 06:56:17,758 [INFO] Caption : Always Game: Mystery Life RP
+2026-03-06 06:56:17,758 [INFO] Hashtags: #meme #memes #robloxmemes #robloxmeme #memeroblox
+2026-03-06 06:56:18,217 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 06:56:18,813 [INFO] Label: {'label': 1} | niche_match=True
+2026-03-06 06:56:18,813 [INFO] Niche match — watching extra 7.3s before engaging.
+2026-03-06 06:56:26,352 [INFO] Like count: 7,269
+2026-03-06 06:56:28,654 [INFO] Liked video.
+2026-03-06 06:56:35,520 [INFO] Link copied: https://www.instagram.com/reel/DRpeNFeDPBg/?igsh=OXV5azl4M3Jxcjdo
+2026-03-06 06:56:36,930 [INFO] Saved URL: https://www.instagram.com/reel/DRpeNFeDPBg/?igsh=OXV5azl4M3Jxcjdo  (likes: 7,269)
+2026-03-06 19:49:12,856 [INFO] ========== INSTAGRAM ANDROID BOT STARTED ==========
+2026-03-06 19:49:12,857 [INFO] Niche: roblox
+2026-03-06 19:49:12,858 [INFO] Session started | niche='roblox' | duration=31.4 min (1884 s)
+2026-03-06 19:49:12,858 [INFO] ── Video #0 │ elapsed 0.0 min │ remaining 31.4 min ──────────────
+2026-03-06 19:49:19,757 [INFO] Caption : Shut up and trust the process
+2026-03-06 19:49:19,757 [INFO] Hashtags: #viral #reels #toppick
+2026-03-06 19:49:20,363 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 19:49:21,023 [INFO] Label: {'label': 0} | niche_match=False
+2026-03-06 19:49:28,468 [INFO] ── Video #1 │ elapsed 0.3 min │ remaining 31.1 min ──────────────
+2026-03-06 19:49:33,272 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 19:49:44,826 [INFO] ── Video #2 │ elapsed 0.5 min │ remaining 30.9 min ──────────────
+2026-03-06 19:49:50,022 [INFO] Caption : ready to spend daddys money
+2026-03-06 19:49:50,023 [INFO] Hashtags: #girlmom
+2026-03-06 19:49:50,459 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 19:49:51,150 [INFO] Label: {'label': 0} | niche_match=False
+2026-03-06 19:49:55,043 [INFO] ── Video #3 │ elapsed 0.7 min │ remaining 30.7 min ──────────────
+2026-03-06 19:50:00,124 [INFO] Caption : found the roblox screen
+2026-03-06 19:50:00,124 [INFO] Hashtags: #roblox
+2026-03-06 19:50:00,552 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 19:50:01,084 [INFO] Label: {'label': 1} | niche_match=True
+2026-03-06 19:50:01,084 [INFO] Niche match — watching extra 7.5s before engaging.
+2026-03-06 19:50:08,891 [INFO] Like count: 1,926
+2026-03-06 19:50:10,654 [INFO] Liked video.
+2026-03-06 19:50:11,381 [INFO] Like count 1,926 below 5,000 threshold — skipping link save.
+2026-03-06 19:50:16,800 [INFO] ── Video #4 │ elapsed 1.1 min │ remaining 30.3 min ──────────────
+2026-03-06 19:50:22,911 [INFO] Caption : Who am I going to sit next to now??22?
+2026-03-06 19:50:22,912 [INFO] Hashtags: #jrotc
+2026-03-06 19:50:23,347 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 19:50:23,987 [INFO] Label: {'label': 0} | niche_match=False
+2026-03-06 19:50:26,265 [INFO] Liked video.
+2026-03-06 19:50:26,265 [INFO] Liked video (no-match organic roll).
+2026-03-06 19:50:31,406 [INFO] ── Video #5 │ elapsed 1.3 min │ remaining 30.1 min ──────────────
+2026-03-06 19:50:37,487 [INFO] Caption : CANT PARK THERE
+2026-03-06 19:50:37,488 [INFO] Hashtags: None
+2026-03-06 19:50:37,940 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 19:50:38,695 [INFO] Label: {'label': 0} | niche_match=False
+2026-03-06 19:50:45,874 [INFO] ── Video #6 │ elapsed 1.6 min │ remaining 29.8 min ──────────────
+2026-03-06 19:50:52,165 [INFO] Caption : how is he bigger than me now?
+2026-03-06 19:50:52,166 [INFO] Hashtags: #siblings #oldestdaughter #brother
+2026-03-06 19:50:52,626 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 19:50:53,787 [INFO] Label: {'label': 0} | niche_match=False
+2026-03-06 19:50:56,318 [INFO] ── Video #7 │ elapsed 1.7 min │ remaining 29.7 min ──────────────
+2026-03-06 19:51:04,940 [INFO] Caption : Run it up with bro
+2026-03-06 19:51:04,941 [INFO] Hashtags: #reels #reselling #ecom #dreamcars #bmw
+2026-03-06 19:51:05,395 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 19:51:06,560 [INFO] Label: {'label': 0} | niche_match=False
+2026-03-06 19:51:10,690 [INFO] ── Video #8 │ elapsed 2.0 min │ remaining 29.4 min ──────────────
+2026-03-06 19:51:18,728 [INFO] Caption : waking up in 2026 is just the futuristic 2016
+2026-03-06 19:51:18,729 [INFO] Hashtags: #2016 #ootd #outfitinspo #outfitideas
+2026-03-06 19:51:19,163 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 19:51:21,152 [INFO] Label: {'label': 0} | niche_match=False
+2026-03-06 19:51:27,131 [INFO] ── Video #9 │ elapsed 2.2 min │ remaining 29.2 min ──────────────
+2026-03-06 19:51:34,116 [INFO] Caption : umm wait for the ending @
+2026-03-06 19:51:34,117 [INFO] Hashtags: #reels
+2026-03-06 19:51:34,552 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 19:51:35,152 [INFO] Label: {'label': 2} | niche_match=False
+2026-03-06 19:51:41,094 [INFO] ── Video #10 │ elapsed 2.5 min │ remaining 28.9 min ──────────────
+2026-03-06 19:51:48,227 [INFO] Caption : Real ones know documented it all
+2026-03-06 19:51:48,228 [INFO] Hashtags: #m4
+2026-03-06 19:51:49,482 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 19:51:50,162 [INFO] Label: {'label': 2} | niche_match=False
+2026-03-06 19:51:56,747 [INFO] ── Video #11 │ elapsed 2.7 min │ remaining 28.7 min ──────────────
+2026-03-06 19:52:03,814 [INFO] Caption : Huayra BBC
+2026-03-06 19:52:03,816 [INFO] Hashtags: #viral #supercars #trending #instagram #reels
+2026-03-06 19:52:04,262 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 19:52:05,277 [INFO] Label: {'label': 0} | niche_match=False
+2026-03-06 19:52:10,888 [INFO] ── Video #12 │ elapsed 3.0 min │ remaining 28.4 min ──────────────
+2026-03-06 19:52:32,148 [INFO] Caption : this was an assignment for my acting class with @ralstontalent Hloved filming th
+2026-03-06 19:52:32,152 [INFO] Hashtags: None
+2026-03-06 19:52:32,607 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 19:52:33,503 [INFO] Label: {'label': 0} | niche_match=False
+2026-03-06 19:52:35,675 [INFO] Liked video.
+2026-03-06 19:52:35,676 [INFO] Liked video (no-match organic roll).
+2026-03-06 19:52:44,506 [INFO] ── Video #13 │ elapsed 3.5 min │ remaining 27.9 min ──────────────
+2026-03-06 19:52:51,032 [INFO] Caption : Routine
+2026-03-06 19:52:51,034 [INFO] Hashtags: None
+2026-03-06 19:52:51,478 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 19:52:52,047 [INFO] Label: {'label': 2} | niche_match=False
+2026-03-06 19:52:58,041 [INFO] ── Video #14 │ elapsed 3.8 min │ remaining 27.6 min ──────────────
+2026-03-06 19:53:05,884 [INFO] Caption : Fve been looking for a vacation Follow me @princessmaliah
+2026-03-06 19:53:05,885 [INFO] Hashtags: None
+2026-03-06 19:53:06,789 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 19:53:07,522 [INFO] Label: {'label': 0} | niche_match=False
+2026-03-06 19:53:12,673 [INFO] ── Video #15 │ elapsed 4.0 min │ remaining 27.4 min ──────────────
+2026-03-06 19:53:16,763 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 19:53:23,942 [INFO] ── Video #16 │ elapsed 4.2 min │ remaining 27.2 min ──────────────
+2026-03-06 19:53:24,399 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 19:53:34,997 [INFO] ── Video #17 │ elapsed 4.4 min │ remaining 27.0 min ──────────────
+2026-03-06 19:53:35,350 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 19:53:42,447 [INFO] ── Video #18 │ elapsed 4.5 min │ remaining 26.9 min ──────────────
+2026-03-06 19:53:42,697 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 19:53:47,354 [INFO] ── Video #19 │ elapsed 4.6 min │ remaining 26.8 min ──────────────
+2026-03-06 19:53:47,672 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 19:53:50,767 [INFO] ── Video #20 │ elapsed 4.6 min │ remaining 26.8 min ──────────────
+2026-03-06 19:53:50,955 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 19:53:54,026 [INFO] Liked video (no-match organic roll).
+2026-03-06 19:53:58,754 [INFO] ── Video #21 │ elapsed 4.8 min │ remaining 26.6 min ──────────────
+2026-03-06 19:53:59,394 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 19:54:02,508 [INFO] Liked video (no-match organic roll).
+2026-03-06 19:54:08,318 [INFO] ── Video #22 │ elapsed 4.9 min │ remaining 26.5 min ──────────────
+2026-03-06 19:54:08,635 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 19:54:11,692 [INFO] Liked video (no-match organic roll).
+2026-03-06 19:54:16,720 [INFO] ── Video #23 │ elapsed 5.1 min │ remaining 26.3 min ──────────────
+2026-03-06 19:54:17,049 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 19:54:19,694 [INFO] ── Video #24 │ elapsed 5.1 min │ remaining 26.3 min ──────────────
+2026-03-06 19:54:20,024 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 19:54:23,152 [INFO] ── Video #25 │ elapsed 5.2 min │ remaining 26.2 min ──────────────
+2026-03-06 19:54:24,080 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 19:54:27,173 [INFO] Liked video (no-match organic roll).
+2026-03-06 19:54:33,290 [INFO] ── Video #26 │ elapsed 5.3 min │ remaining 26.1 min ──────────────
+2026-03-06 19:54:33,646 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 19:54:39,813 [INFO] ── Video #27 │ elapsed 5.4 min │ remaining 25.9 min ──────────────
+2026-03-06 19:54:40,260 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 19:54:43,950 [INFO] ── Video #28 │ elapsed 5.5 min │ remaining 25.9 min ──────────────
+2026-03-06 19:54:44,197 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 19:54:50,186 [INFO] ── Video #29 │ elapsed 5.6 min │ remaining 25.8 min ──────────────
+2026-03-06 19:54:50,443 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 19:55:02,919 [INFO] ── Video #30 │ elapsed 5.8 min │ remaining 25.6 min ──────────────
+2026-03-06 19:55:20,043 [INFO] Caption : Interesting fact: Penguins of Madagascar (2014) ~ This spy-thriller spinoff star
+2026-03-06 19:55:20,044 [INFO] Hashtags: None
+2026-03-06 19:55:20,623 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 19:55:21,130 [INFO] Label: {'label': 0} | niche_match=False
+2026-03-06 19:55:25,939 [INFO] ── Video #31 │ elapsed 6.2 min │ remaining 25.2 min ──────────────
+2026-03-06 19:55:41,947 [INFO] Caption : Comment "LINK" and IIl send you the product link with 50% OFF + FREE SHIPPING Be
+2026-03-06 19:55:41,949 [INFO] Hashtags: None
+2026-03-06 19:55:42,413 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 19:55:43,026 [INFO] Label: {'label': 0} | niche_match=False
+2026-03-06 19:55:47,145 [INFO] ── Video #32 │ elapsed 6.6 min │ remaining 24.8 min ──────────────
+2026-03-06 19:56:02,874 [INFO] Caption : Follow @georgeandcris for travel inspo LOCATION DETAILS BELOW Send this to someo
+2026-03-06 19:56:02,875 [INFO] Hashtags: None
+2026-03-06 19:56:03,313 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 19:56:03,963 [INFO] Label: {'label': 0} | niche_match=False
+2026-03-06 19:56:08,871 [INFO] ── Video #33 │ elapsed 6.9 min │ remaining 24.5 min ──────────────
+2026-03-06 19:56:12,009 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 19:56:14,859 [INFO] ── Video #34 │ elapsed 7.0 min │ remaining 24.4 min ──────────────
+2026-03-06 19:56:16,646 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 19:56:20,282 [INFO] ── Video #35 │ elapsed 7.1 min │ remaining 24.3 min ──────────────
+2026-03-06 19:56:20,950 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 19:56:23,985 [INFO] Liked video (no-match organic roll).
+2026-03-06 19:56:34,886 [INFO] ── Video #36 │ elapsed 7.4 min │ remaining 24.0 min ──────────────
+2026-03-06 19:56:35,036 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 19:56:38,230 [INFO] ── Video #37 │ elapsed 7.4 min │ remaining 24.0 min ──────────────
+2026-03-06 19:56:38,760 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 19:56:43,038 [INFO] ── Video #38 │ elapsed 7.5 min │ remaining 23.9 min ──────────────
+2026-03-06 19:56:44,713 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 19:56:50,408 [INFO] ── Video #39 │ elapsed 7.6 min │ remaining 23.8 min ──────────────
+2026-03-06 19:56:57,229 [INFO] Caption : prime roblox nostalgia
+2026-03-06 19:56:57,230 [INFO] Hashtags: #roblox
+2026-03-06 19:56:57,658 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 19:56:58,132 [INFO] Label: {'label': 1} | niche_match=True
+2026-03-06 19:56:58,133 [INFO] Niche match — watching extra 5.9s before engaging.
+2026-03-06 19:57:04,474 [INFO] Like count: 32,066
+2026-03-06 19:57:06,947 [INFO] Liked video.
+2026-03-06 19:57:14,399 [INFO] Link copied: https://www.instagram.com/reel/DSbMMYAAfZW/?igsh=NHFyMmJwYTlnYXlp
+2026-03-06 19:57:15,813 [INFO] Saved URL: https://www.instagram.com/reel/DSbMMYAAfZW/?igsh=NHFyMmJwYTlnYXlp  (likes: 32,066)
+2026-03-06 19:57:22,261 [INFO] ── Video #40 │ elapsed 8.2 min │ remaining 23.2 min ──────────────
+2026-03-06 19:57:29,266 [INFO] Caption : LIKE BRO IS NOT INNOCENT
+2026-03-06 19:57:29,266 [INFO] Hashtags: #reels
+2026-03-06 19:57:29,703 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 19:57:30,513 [INFO] Label: {'label': 2} | niche_match=False
+2026-03-06 19:57:34,617 [INFO] ── Video #41 │ elapsed 8.4 min │ remaining 23.0 min ──────────────
+2026-03-06 19:57:38,516 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 19:57:42,242 [INFO] ── Video #42 │ elapsed 8.5 min │ remaining 22.9 min ──────────────
+2026-03-06 19:57:42,522 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 19:57:46,946 [INFO] ── Video #43 │ elapsed 8.6 min │ remaining 22.8 min ──────────────
+2026-03-06 19:57:47,240 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 19:57:52,173 [INFO] ── Video #44 │ elapsed 8.7 min │ remaining 22.7 min ──────────────
+2026-03-06 19:57:52,386 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 19:57:56,668 [INFO] ── Video #45 │ elapsed 8.7 min │ remaining 22.7 min ──────────────
+2026-03-06 19:57:56,946 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 19:58:01,242 [INFO] ── Video #46 │ elapsed 8.8 min │ remaining 22.6 min ──────────────
+2026-03-06 19:58:01,524 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 19:58:07,782 [INFO] ── Video #47 │ elapsed 8.9 min │ remaining 22.5 min ──────────────
+2026-03-06 19:58:08,145 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 19:58:12,527 [INFO] ── Video #48 │ elapsed 9.0 min │ remaining 22.4 min ──────────────
+2026-03-06 19:58:12,826 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 19:58:22,397 [INFO] ── Video #49 │ elapsed 9.2 min │ remaining 22.2 min ──────────────
+2026-03-06 19:58:22,670 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 19:58:26,347 [INFO] ── Video #50 │ elapsed 9.2 min │ remaining 22.2 min ──────────────
+2026-03-06 19:58:26,608 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 19:58:29,209 [INFO] ── Video #51 │ elapsed 9.3 min │ remaining 22.1 min ──────────────
+2026-03-06 19:58:29,449 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 19:58:33,753 [INFO] ── Video #52 │ elapsed 9.3 min │ remaining 22.0 min ──────────────
+2026-03-06 19:58:34,009 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 19:58:48,149 [INFO] ── Video #53 │ elapsed 9.6 min │ remaining 21.8 min ──────────────
+2026-03-06 19:58:48,436 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 19:58:51,534 [INFO] Liked video (no-match organic roll).
+2026-03-06 19:59:03,929 [INFO] ── Video #54 │ elapsed 9.9 min │ remaining 21.5 min ──────────────
+2026-03-06 19:59:04,149 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 19:59:17,326 [INFO] ── Video #55 │ elapsed 10.1 min │ remaining 21.3 min ──────────────
+2026-03-06 19:59:17,666 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 19:59:21,816 [INFO] ── Video #56 │ elapsed 10.1 min │ remaining 21.2 min ──────────────
+2026-03-06 19:59:22,018 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 19:59:26,552 [INFO] ── Video #57 │ elapsed 10.2 min │ remaining 21.2 min ──────────────
+2026-03-06 19:59:26,846 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 19:59:32,650 [INFO] ── Video #58 │ elapsed 10.3 min │ remaining 21.1 min ──────────────
+2026-03-06 19:59:32,895 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 19:59:36,009 [INFO] Liked video (no-match organic roll).
+2026-03-06 19:59:41,803 [INFO] ── Video #59 │ elapsed 10.5 min │ remaining 20.9 min ──────────────
+2026-03-06 19:59:42,096 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 19:59:57,732 [INFO] ── Video #60 │ elapsed 10.7 min │ remaining 20.6 min ──────────────
+2026-03-06 19:59:57,969 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 20:00:02,547 [INFO] ── Video #61 │ elapsed 10.8 min │ remaining 20.6 min ──────────────
+2026-03-06 20:00:02,782 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 20:00:05,860 [INFO] ── Video #62 │ elapsed 10.9 min │ remaining 20.5 min ──────────────
+2026-03-06 20:00:06,316 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 20:00:11,278 [INFO] ── Video #63 │ elapsed 11.0 min │ remaining 20.4 min ──────────────
+2026-03-06 20:00:19,201 [INFO] Caption : POV: when you try to be a hero
+2026-03-06 20:00:19,218 [INFO] Hashtags: #roblox
+2026-03-06 20:00:19,775 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 20:00:20,623 [INFO] Label: {'label': 1} | niche_match=True
+2026-03-06 20:00:20,624 [INFO] Niche match — watching extra 7.6s before engaging.
+2026-03-06 20:00:28,538 [INFO] Like count: 1,370,138
+2026-03-06 20:00:30,303 [INFO] Liked video.
+2026-03-06 20:00:37,706 [INFO] Link copied: https://www.instagram.com/reel/DTWkQxUCIhY/?igsh=NWpyZTFmdTZtbmY=
+2026-03-06 20:00:38,708 [INFO] Saved URL: https://www.instagram.com/reel/DTWkQxUCIhY/?igsh=NWpyZTFmdTZtbmY=  (likes: 1,370,138)
+2026-03-06 20:00:49,158 [INFO] ── Video #64 │ elapsed 11.6 min │ remaining 19.8 min ──────────────
+2026-03-06 20:00:56,683 [INFO] Caption : Using admin commands to slap the funniest players in roblox
+2026-03-06 20:00:56,684 [INFO] Hashtags: #roblox #robloxfyp #micup
+2026-03-06 20:00:57,423 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 20:00:57,885 [INFO] Label: {'label': 1} | niche_match=True
+2026-03-06 20:00:57,887 [INFO] Niche match — watching extra 5.9s before engaging.
+2026-03-06 20:01:04,076 [INFO] Like count: 941,467
+2026-03-06 20:01:05,961 [INFO] Liked video.
+2026-03-06 20:01:13,178 [INFO] Link copied: https://www.instagram.com/reel/DTbZODJipel/?igsh=MWdhNWRldXJrampqaA==
+2026-03-06 20:01:14,855 [INFO] Saved URL: https://www.instagram.com/reel/DTbZODJipel/?igsh=MWdhNWRldXJrampqaA==  (likes: 941,467)
+2026-03-06 20:01:19,262 [INFO] ── Video #65 │ elapsed 12.1 min │ remaining 19.3 min ──────────────
+2026-03-06 20:01:26,970 [INFO] Caption : Roblox 2016
+2026-03-06 20:01:26,971 [INFO] Hashtags: #reels #viral #trend #roblox
+2026-03-06 20:01:27,397 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 20:01:27,815 [INFO] Label: {'label': 1} | niche_match=True
+2026-03-06 20:01:27,815 [INFO] Niche match — watching extra 6.7s before engaging.
+2026-03-06 20:01:34,902 [INFO] Like count: 73,031
+2026-03-06 20:01:36,973 [INFO] Liked video.
+2026-03-06 20:01:44,044 [INFO] Link copied: https://www.instagram.com/reel/DTqGJBEAFtv/?igsh=MXRmaWhobHg4NWh6dw==
+2026-03-06 20:01:45,375 [INFO] Saved URL: https://www.instagram.com/reel/DTqGJBEAFtv/?igsh=MXRmaWhobHg4NWh6dw==  (likes: 73,031)
+2026-03-06 20:01:50,210 [INFO] ── Video #66 │ elapsed 12.6 min │ remaining 18.8 min ──────────────
+2026-03-06 20:01:56,764 [INFO] Caption : Roblox dance credit tiktok: mido_rou
+2026-03-06 20:01:56,765 [INFO] Hashtags: #reels
+2026-03-06 20:01:57,198 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 20:01:57,828 [INFO] Label: {'label': 1} | niche_match=True
+2026-03-06 20:01:57,829 [INFO] Niche match — watching extra 5.2s before engaging.
+2026-03-06 20:02:03,585 [INFO] Like count: 57,328
+2026-03-06 20:02:05,540 [INFO] Liked video.
+2026-03-06 20:02:12,444 [INFO] Link copied: https://www.instagram.com/reel/C-tdCUaxyZ1/?igsh=dTZvcWFza2lyaWg4
+2026-03-06 20:02:13,824 [INFO] Saved URL: https://www.instagram.com/reel/C-tdCUaxyZ1/?igsh=dTZvcWFza2lyaWg4  (likes: 57,328)
+2026-03-06 20:02:18,286 [INFO] ── Video #67 │ elapsed 13.1 min │ remaining 18.3 min ──────────────
+2026-03-06 20:02:25,330 [INFO] Caption : roblox is nothing without chat @kreekcraft
+2026-03-06 20:02:25,331 [INFO] Hashtags: #roblox #agecheck #nostalgia
+2026-03-06 20:02:25,755 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 20:02:26,225 [INFO] Label: {'label': 1} | niche_match=True
+2026-03-06 20:02:26,226 [INFO] Niche match — watching extra 6.1s before engaging.
+2026-03-06 20:02:32,776 [INFO] Like count: 36,719
+2026-03-06 20:02:35,641 [INFO] Liked video.
+2026-03-06 20:02:43,678 [INFO] Link copied: https://www.instagram.com/reel/DTTzr1ogey5/?igsh=dHZnYXh6a2U0cGFy
+2026-03-06 20:02:44,960 [INFO] Saved URL: https://www.instagram.com/reel/DTTzr1ogey5/?igsh=dHZnYXh6a2U0cGFy  (likes: 36,719)
+2026-03-06 20:02:50,610 [INFO] ── Video #68 │ elapsed 13.6 min │ remaining 17.8 min ──────────────
+2026-03-06 20:02:59,207 [INFO] Caption : Trying Not to Laugh While the Teacher Is Screaming
+2026-03-06 20:02:59,209 [INFO] Hashtags: #explore #memes #relatable #rants #roblox
+2026-03-06 20:02:59,651 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 20:03:00,780 [INFO] Label: {'label': 1} | niche_match=True
+2026-03-06 20:03:00,780 [INFO] Niche match — watching extra 5.4s before engaging.
+2026-03-06 20:03:06,600 [INFO] Like count: 88,637
+2026-03-06 20:03:13,197 [INFO] Link copied: https://www.instagram.com/reel/DR_JVK2AHbx/?igsh=YTF5Y2Jib3g0MzI0
+2026-03-06 20:03:14,786 [INFO] Saved URL: https://www.instagram.com/reel/DR_JVK2AHbx/?igsh=YTF5Y2Jib3g0MzI0  (likes: 88,637)
+2026-03-06 20:03:28,924 [INFO] ── Video #69 │ elapsed 14.3 min │ remaining 17.1 min ──────────────
+2026-03-06 20:03:36,039 [INFO] Caption : "old Roblox wasn't that good" @roblox
+2026-03-06 20:03:36,040 [INFO] Hashtags: #roblox #nostalgia #edit
+2026-03-06 20:03:36,472 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 20:03:37,686 [INFO] Label: {'label': 1} | niche_match=True
+2026-03-06 20:03:37,687 [INFO] Niche match — watching extra 7.2s before engaging.
+2026-03-06 20:03:45,223 [INFO] Like count: 305,791
+2026-03-06 20:03:47,252 [INFO] Liked video.
+2026-03-06 20:03:55,147 [INFO] Link copied: https://www.instagram.com/reel/DRVcAZqkpL0/?igsh=ZnYwNTBlczV0ZTl3
+2026-03-06 20:03:56,250 [INFO] Saved URL: https://www.instagram.com/reel/DRVcAZqkpL0/?igsh=ZnYwNTBlczV0ZTl3  (likes: 305,791)
+2026-03-06 20:04:12,428 [INFO] ── Video #70 │ elapsed 15.0 min │ remaining 16.4 min ──────────────
+2026-03-06 20:04:19,342 [INFO] Caption : roblox in 1995
+2026-03-06 20:04:19,343 [INFO] Hashtags: #roblox
+2026-03-06 20:04:19,780 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 20:04:20,329 [INFO] Label: {'label': 1} | niche_match=True
+2026-03-06 20:04:20,330 [INFO] Niche match — watching extra 6.8s before engaging.
+2026-03-06 20:04:27,538 [INFO] Like count: 12,295
+2026-03-06 20:04:29,255 [INFO] Liked video.
+2026-03-06 20:04:36,928 [INFO] Link copied: https://www.instagram.com/reel/DVCNAkhEiqQ/?igsh=MXc4bzI4c2wzOGYweQ==
+2026-03-06 20:04:38,139 [INFO] Saved URL: https://www.instagram.com/reel/DVCNAkhEiqQ/?igsh=MXc4bzI4c2wzOGYweQ==  (likes: 12,295)
+2026-03-06 20:04:41,393 [INFO] ── Video #71 │ elapsed 15.5 min │ remaining 15.9 min ──────────────
+2026-03-06 20:04:49,549 [INFO] Caption : This Roblox Game Help Me Cure My Depression!
+2026-03-06 20:04:49,549 [INFO] Hashtags: #Roblox #Shorts #RobloxGame
+2026-03-06 20:04:49,997 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 20:04:50,510 [INFO] Label: {'label': 1} | niche_match=True
+2026-03-06 20:04:50,511 [INFO] Niche match — watching extra 5.6s before engaging.
+2026-03-06 20:04:56,431 [INFO] Like count: 191,814
+2026-03-06 20:04:58,033 [INFO] Liked video.
+2026-03-06 20:05:04,731 [INFO] Link copied: https://www.instagram.com/reel/DTTZtOygKkq/?igsh=c251Mmp5c3psM2Rl
+2026-03-06 20:05:06,361 [INFO] Saved URL: https://www.instagram.com/reel/DTTZtOygKkq/?igsh=c251Mmp5c3psM2Rl  (likes: 191,814)
+2026-03-06 20:05:10,348 [INFO] ── Video #72 │ elapsed 16.0 min │ remaining 15.4 min ──────────────
+2026-03-06 20:05:17,948 [INFO] Caption : SITTING NEXT TO WITH BRO IS IMPOSSIBLE
+2026-03-06 20:05:17,949 [INFO] Hashtags: #reels #roblox #robloxrant #relatable
+2026-03-06 20:05:18,395 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 20:05:19,524 [INFO] Label: {'label': 1} | niche_match=True
+2026-03-06 20:05:19,525 [INFO] Niche match — watching extra 5.4s before engaging.
+2026-03-06 20:05:25,298 [INFO] Like count: 282,852
+2026-03-06 20:05:27,276 [INFO] Liked video.
+2026-03-06 20:05:34,037 [INFO] Link copied: https://www.instagram.com/reel/DR-22gLD0ja/?igsh=MThmYnE5czk4aDg3ag==
+2026-03-06 20:05:35,552 [INFO] Saved URL: https://www.instagram.com/reel/DR-22gLD0ja/?igsh=MThmYnE5czk4aDg3ag==  (likes: 282,852)
+2026-03-06 20:05:45,846 [INFO] ── Video #73 │ elapsed 16.5 min │ remaining 14.8 min ──────────────
+2026-03-06 20:05:49,103 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 20:05:53,468 [INFO] ── Video #74 │ elapsed 16.7 min │ remaining 14.7 min ──────────────
+2026-03-06 20:05:55,183 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 20:06:00,169 [INFO] ── Video #75 │ elapsed 16.8 min │ remaining 14.6 min ──────────────
+2026-03-06 20:06:00,879 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 20:06:06,438 [INFO] ── Video #76 │ elapsed 16.9 min │ remaining 14.5 min ──────────────
+2026-03-06 20:06:14,061 [INFO] Caption : Six Seven Is Banned
+2026-03-06 20:06:14,062 [INFO] Hashtags: #roblox #rblx #robloxrant #reels
+2026-03-06 20:06:14,518 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 20:06:15,036 [INFO] Label: {'label': 1} | niche_match=True
+2026-03-06 20:06:15,037 [INFO] Niche match — watching extra 5.8s before engaging.
+2026-03-06 20:06:21,159 [INFO] Like count: 47,115
+2026-03-06 20:06:23,050 [INFO] Liked video.
+2026-03-06 20:06:30,725 [INFO] Link copied: https://www.instagram.com/reel/DSyiJ0LDJbe/?igsh=eGpnb2k2M29rZDdu
+2026-03-06 20:06:32,175 [INFO] Saved URL: https://www.instagram.com/reel/DSyiJ0LDJbe/?igsh=eGpnb2k2M29rZDdu  (likes: 47,115)
+2026-03-06 20:06:37,706 [INFO] ── Video #77 │ elapsed 17.4 min │ remaining 14.0 min ──────────────
+2026-03-06 20:06:40,652 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 20:06:44,212 [INFO] ── Video #78 │ elapsed 17.5 min │ remaining 13.9 min ──────────────
+2026-03-06 20:06:51,373 [INFO] Caption : Snaching Players as Jesus 46
+2026-03-06 20:06:51,373 [INFO] Hashtags: #robloxfyp
+2026-03-06 20:06:51,807 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 20:06:52,322 [INFO] Label: {'label': 1} | niche_match=True
+2026-03-06 20:06:52,323 [INFO] Niche match — watching extra 6.8s before engaging.
+2026-03-06 20:06:59,453 [INFO] Like count: 250,309
+2026-03-06 20:07:05,869 [INFO] Link copied: https://www.instagram.com/reel/DU4JF78kaE4/?igsh=czZzbG81bDE4bGtu
+2026-03-06 20:07:07,046 [INFO] Saved URL: https://www.instagram.com/reel/DU4JF78kaE4/?igsh=czZzbG81bDE4bGtu  (likes: 250,309)
+2026-03-06 20:07:11,115 [INFO] ── Video #79 │ elapsed 18.0 min │ remaining 13.4 min ──────────────
+2026-03-06 20:07:19,560 [INFO] Caption : she killed everyone successfully
+2026-03-06 20:07:19,560 [INFO] Hashtags: #explore #roblox #friends #onlinefriends #fyp
+2026-03-06 20:07:19,993 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 20:07:20,465 [INFO] Label: {'label': 1} | niche_match=True
+2026-03-06 20:07:20,466 [INFO] Niche match — watching extra 6.3s before engaging.
+2026-03-06 20:07:27,093 [INFO] Like count: 22,028
+2026-03-06 20:07:29,412 [INFO] Liked video.
+2026-03-06 20:07:37,216 [INFO] Link copied: https://www.instagram.com/reel/DU3Z696jK9i/?igsh=MXVzbmVodHo3ZXA2ZA==
+2026-03-06 20:07:38,767 [INFO] Saved URL: https://www.instagram.com/reel/DU3Z696jK9i/?igsh=MXVzbmVodHo3ZXA2ZA==  (likes: 22,028)
+2026-03-06 20:07:50,587 [INFO] ── Video #80 │ elapsed 18.6 min │ remaining 12.8 min ──────────────
+2026-03-06 20:07:57,398 [INFO] Caption : The broguins can't handle the heat
+2026-03-06 20:07:57,398 [INFO] Hashtags: #roblox top
+2026-03-06 20:07:57,819 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 20:07:58,313 [INFO] Label: {'label': 1} | niche_match=True
+2026-03-06 20:07:58,314 [INFO] Niche match — watching extra 7.8s before engaging.
+2026-03-06 20:08:06,430 [INFO] Like count: 725,047
+2026-03-06 20:08:08,573 [INFO] Liked video.
+2026-03-06 20:08:15,456 [INFO] Link copied: https://www.instagram.com/reel/DUKfL4Ykx8n/?igsh=MWN5NHJzbmxjazQ2dw==
+2026-03-06 20:08:16,603 [INFO] Saved URL: https://www.instagram.com/reel/DUKfL4Ykx8n/?igsh=MWN5NHJzbmxjazQ2dw==  (likes: 725,047)
+2026-03-06 20:08:21,678 [INFO] ── Video #81 │ elapsed 19.1 min │ remaining 12.3 min ──────────────
+2026-03-06 20:08:28,612 [INFO] Caption : No problem
+2026-03-06 20:08:28,614 [INFO] Hashtags: #roblox #robloxstudio #gamingcommunity
+2026-03-06 20:08:29,047 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 20:08:29,601 [INFO] Label: {'label': 1} | niche_match=True
+2026-03-06 20:08:29,602 [INFO] Niche match — watching extra 5.3s before engaging.
+2026-03-06 20:08:35,207 [INFO] Like count: 91,562
+2026-03-06 20:08:36,998 [INFO] Liked video.
+2026-03-06 20:08:44,250 [INFO] Link copied: https://www.instagram.com/reel/DKra31zTc2N/?igsh=MWN0dGgzOHB3bDA3aQ==
+2026-03-06 20:08:45,737 [INFO] Saved URL: https://www.instagram.com/reel/DKra31zTc2N/?igsh=MWN0dGgzOHB3bDA3aQ==  (likes: 91,562)
+2026-03-06 20:08:48,634 [INFO] ── Video #82 │ elapsed 19.6 min │ remaining 11.8 min ──────────────
+2026-03-06 20:08:56,367 [INFO] Caption : mom was SO proud of me and my friendsu
+2026-03-06 20:08:56,368 [INFO] Hashtags: #robloxshorts #roblox
+2026-03-06 20:08:56,816 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 20:08:57,463 [INFO] Label: {'label': 1} | niche_match=True
+2026-03-06 20:08:57,464 [INFO] Niche match — watching extra 5.6s before engaging.
+2026-03-06 20:09:03,409 [INFO] Like count: 20,251
+2026-03-06 20:09:05,196 [INFO] Liked video.
+2026-03-06 20:09:12,132 [INFO] Link copied: https://www.instagram.com/reel/DUns0aokbe_/?igsh=MWVmMjhybnJqY3hlNg==
+2026-03-06 20:09:13,469 [INFO] Saved URL: https://www.instagram.com/reel/DUns0aokbe_/?igsh=MWVmMjhybnJqY3hlNg==  (likes: 20,251)
+2026-03-06 20:09:22,598 [INFO] ── Video #83 │ elapsed 20.2 min │ remaining 11.2 min ──────────────
+2026-03-06 20:09:25,586 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 20:09:31,311 [INFO] ── Video #84 │ elapsed 20.3 min │ remaining 11.1 min ──────────────
+2026-03-06 20:09:39,266 [INFO] Caption : cooked
+2026-03-06 20:09:39,267 [INFO] Hashtags: #robloxart #guestythebloofin #robloxguest
+2026-03-06 20:09:39,714 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 20:09:40,295 [INFO] Label: {'label': 1} | niche_match=True
+2026-03-06 20:09:40,296 [INFO] Niche match — watching extra 5.2s before engaging.
+2026-03-06 20:09:45,742 [INFO] Like count: 27,980
+2026-03-06 20:09:47,599 [INFO] Followed author.
+2026-03-06 20:09:54,410 [INFO] Link copied: https://www.instagram.com/p/DTmBTJwj4Hx/?igsh=amYwNzZpdXBycTh3
+2026-03-06 20:09:56,129 [INFO] Saved URL: https://www.instagram.com/p/DTmBTJwj4Hx/?igsh=amYwNzZpdXBycTh3  (likes: 27,980)
+2026-03-06 20:10:01,857 [INFO] ── Video #85 │ elapsed 20.8 min │ remaining 10.6 min ──────────────
+2026-03-06 20:10:09,675 [INFO] Caption : Bro needs to come back
+2026-03-06 20:10:09,676 [INFO] Hashtags: #roblox #edit
+2026-03-06 20:10:10,109 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 20:10:10,463 [INFO] Label: {'label': 1} | niche_match=True
+2026-03-06 20:10:10,464 [INFO] Niche match — watching extra 7.1s before engaging.
+2026-03-06 20:10:17,894 [INFO] Like count: 32,583
+2026-03-06 20:10:20,127 [INFO] Liked video.
+2026-03-06 20:10:27,170 [INFO] Link copied: https://www.instagram.com/reel/DVGUmDXEXc6/?igsh=MXVoMjYya3hjbXE3bA==
+2026-03-06 20:10:28,650 [INFO] Saved URL: https://www.instagram.com/reel/DVGUmDXEXc6/?igsh=MXVoMjYya3hjbXE3bA==  (likes: 32,583)
+2026-03-06 20:10:35,050 [INFO] ── Video #86 │ elapsed 21.4 min │ remaining 10.0 min ──────────────
+2026-03-06 20:10:37,451 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 20:10:40,375 [INFO] ── Video #87 │ elapsed 21.5 min │ remaining 9.9 min ──────────────
+2026-03-06 20:10:41,482 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 20:10:46,588 [INFO] ── Video #88 │ elapsed 21.6 min │ remaining 9.8 min ──────────────
+2026-03-06 20:10:46,826 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 20:10:51,275 [INFO] ── Video #89 │ elapsed 21.6 min │ remaining 9.8 min ──────────────
+2026-03-06 20:10:51,583 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 20:10:54,997 [INFO] ── Video #90 │ elapsed 21.7 min │ remaining 9.7 min ──────────────
+2026-03-06 20:10:55,292 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 20:11:10,490 [INFO] ── Video #91 │ elapsed 22.0 min │ remaining 9.4 min ──────────────
+2026-03-06 20:11:10,867 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 20:11:20,502 [INFO] ── Video #92 │ elapsed 22.1 min │ remaining 9.3 min ──────────────
+2026-03-06 20:11:20,889 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 20:11:27,272 [INFO] ── Video #93 │ elapsed 22.2 min │ remaining 9.2 min ──────────────
+2026-03-06 20:11:27,652 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 20:11:30,753 [INFO] Liked video (no-match organic roll).
+2026-03-06 20:11:34,240 [INFO] ── Video #94 │ elapsed 22.4 min │ remaining 9.0 min ──────────────
+2026-03-06 20:11:34,538 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 20:11:38,014 [INFO] ── Video #95 │ elapsed 22.4 min │ remaining 9.0 min ──────────────
+2026-03-06 20:11:38,245 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 20:11:44,610 [INFO] ── Video #96 │ elapsed 22.5 min │ remaining 8.9 min ──────────────
+2026-03-06 20:11:45,174 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 20:11:48,569 [INFO] ── Video #97 │ elapsed 22.6 min │ remaining 8.8 min ──────────────
+2026-03-06 20:11:48,875 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 20:11:52,836 [INFO] ── Video #98 │ elapsed 22.7 min │ remaining 8.7 min ──────────────
+2026-03-06 20:12:00,483 [INFO] Caption : Remember_._
+2026-03-06 20:12:00,485 [INFO] Hashtags: #roblox #robloxstudio #relatable #remember
+2026-03-06 20:12:08,717 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 20:12:10,170 [INFO] Label: {'label': 1} | niche_match=True
+2026-03-06 20:12:10,170 [INFO] Niche match — watching extra 7.1s before engaging.
+2026-03-06 20:12:17,543 [INFO] Like count: 165,914
+2026-03-06 20:12:19,477 [INFO] Liked video.
+2026-03-06 20:12:26,610 [INFO] Link copied: https://www.instagram.com/reel/DKb-CdBo4y4/?igsh=MXUzbTVicm8wa3U3Zw==
+2026-03-06 20:12:28,169 [INFO] Saved URL: https://www.instagram.com/reel/DKb-CdBo4y4/?igsh=MXUzbTVicm8wa3U3Zw==  (likes: 165,914)
+2026-03-06 20:12:31,376 [INFO] ── Video #99 │ elapsed 23.3 min │ remaining 8.1 min ──────────────
+2026-03-06 20:12:34,463 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 20:12:38,081 [INFO] ── Video #100 │ elapsed 23.4 min │ remaining 8.0 min ──────────────
+2026-03-06 20:12:39,106 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 20:12:53,143 [INFO] ── Video #101 │ elapsed 23.7 min │ remaining 7.7 min ──────────────
+2026-03-06 20:13:01,181 [INFO] Caption : "You don't miss old Roblox" @kreekcraft albertsstuff
+2026-03-06 20:13:01,183 [INFO] Hashtags: #roblox #nostalgia #edit
+2026-03-06 20:13:01,631 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 20:13:02,066 [INFO] Label: {'label': 1} | niche_match=True
+2026-03-06 20:13:02,067 [INFO] Niche match — watching extra 8.0s before engaging.
+2026-03-06 20:13:10,323 [INFO] Like count: 223,439
+2026-03-06 20:13:13,222 [INFO] Liked video.
+2026-03-06 20:13:20,455 [INFO] Link copied: https://www.instagram.com/reel/DPUYw-qD7wf/?igsh=MWRranFzZXQxNXh0dA==
+2026-03-06 20:13:21,862 [INFO] Saved URL: https://www.instagram.com/reel/DPUYw-qD7wf/?igsh=MWRranFzZXQxNXh0dA==  (likes: 223,439)
+2026-03-06 20:13:33,243 [INFO] ── Video #102 │ elapsed 24.3 min │ remaining 7.1 min ──────────────
+2026-03-06 20:13:40,282 [INFO] Caption : miss the og roblox _
+2026-03-06 20:13:40,283 [INFO] Hashtags: #roblox #foryoupage
+2026-03-06 20:13:40,715 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 20:13:41,368 [INFO] Label: {'label': 1} | niche_match=True
+2026-03-06 20:13:41,369 [INFO] Niche match — watching extra 7.7s before engaging.
+2026-03-06 20:13:49,344 [INFO] Like count: 871,161
+2026-03-06 20:13:51,338 [INFO] Liked video.
+2026-03-06 20:13:57,813 [INFO] Link copied: https://www.instagram.com/reel/DOPVsY-j_Rd/?igsh=MTIyZjVic3M2dm9iMg==
+2026-03-06 20:13:59,092 [INFO] Saved URL: https://www.instagram.com/reel/DOPVsY-j_Rd/?igsh=MTIyZjVic3M2dm9iMg==  (likes: 871,161)
+2026-03-06 20:14:03,782 [INFO] ── Video #103 │ elapsed 24.8 min │ remaining 6.5 min ──────────────
+2026-03-06 20:14:11,052 [INFO] Caption : CLAIM 1OK ROBUX IN MY BIO
+2026-03-06 20:14:11,053 [INFO] Hashtags: #roblox #robloxstories #trending #growth
+2026-03-06 20:14:11,520 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 20:14:12,967 [INFO] Label: {'label': 1} | niche_match=True
+2026-03-06 20:14:12,969 [INFO] Niche match — watching extra 7.3s before engaging.
+2026-03-06 20:14:20,662 [INFO] Like count: 214,386
+2026-03-06 20:14:23,185 [INFO] Liked video.
+2026-03-06 20:14:30,297 [INFO] Link copied: https://www.instagram.com/reel/DVhBlSmjJsK/?igsh=MXgxM3YwN2s1ZHduOA==
+2026-03-06 20:14:31,582 [INFO] Saved URL: https://www.instagram.com/reel/DVhBlSmjJsK/?igsh=MXgxM3YwN2s1ZHduOA==  (likes: 214,386)
+2026-03-06 20:14:38,932 [INFO] ── Video #104 │ elapsed 25.4 min │ remaining 6.0 min ──────────────
+2026-03-06 20:14:47,231 [INFO] Caption : Thu that di: ai Ia nguoi choi Roblox voi ban Iau nhat?
+2026-03-06 20:14:47,233 [INFO] Hashtags: #roblox #robloxvng #robloxfyp
+2026-03-06 20:14:47,684 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 20:14:48,242 [INFO] Label: {'label': 1} | niche_match=True
+2026-03-06 20:14:48,243 [INFO] Niche match — watching extra 7.9s before engaging.
+2026-03-06 20:14:56,445 [INFO] Like count: 0
+2026-03-06 20:15:00,316 [INFO] Like count 0 below 5,000 threshold — skipping link save.
+2026-03-06 20:15:05,181 [INFO] ── Video #105 │ elapsed 25.9 min │ remaining 5.5 min ──────────────
+2026-03-06 20:15:05,484 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 20:15:20,029 [INFO] ── Video #106 │ elapsed 26.1 min │ remaining 5.3 min ──────────────
+2026-03-06 20:15:23,276 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 20:15:26,567 [INFO] ── Video #107 │ elapsed 26.2 min │ remaining 5.2 min ──────────────
+2026-03-06 20:15:26,874 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 20:15:31,332 [INFO] ── Video #108 │ elapsed 26.3 min │ remaining 5.1 min ──────────────
+2026-03-06 20:15:31,629 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 20:15:38,704 [INFO] ── Video #109 │ elapsed 26.4 min │ remaining 5.0 min ──────────────
+2026-03-06 20:15:39,116 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 20:15:42,971 [INFO] ── Video #110 │ elapsed 26.5 min │ remaining 4.9 min ──────────────
+2026-03-06 20:15:43,299 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 20:15:50,179 [INFO] ── Video #111 │ elapsed 26.6 min │ remaining 4.8 min ──────────────
+2026-03-06 20:15:50,535 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 20:15:55,601 [INFO] ── Video #112 │ elapsed 26.7 min │ remaining 4.7 min ──────────────
+2026-03-06 20:15:55,968 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 20:16:02,495 [INFO] ── Video #113 │ elapsed 26.8 min │ remaining 4.6 min ──────────────
+2026-03-06 20:16:04,763 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 20:16:10,386 [INFO] Liked video.
+2026-03-06 20:16:10,387 [INFO] Liked video (no-match organic roll).
+2026-03-06 20:16:13,970 [INFO] ── Video #114 │ elapsed 27.0 min │ remaining 4.4 min ──────────────
+2026-03-06 20:16:22,069 [INFO] Caption : like my actual apartment that i pay rent for is just where i sleep and shower an
+2026-03-06 20:16:22,071 [INFO] Hashtags: #reels #mfastudent #kpop #gradschool
+2026-03-06 20:16:22,646 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 20:16:23,332 [INFO] Label: {'label': 0} | niche_match=False
+2026-03-06 20:16:29,790 [INFO] ── Video #115 │ elapsed 27.3 min │ remaining 4.1 min ──────────────
+2026-03-06 20:16:32,752 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 20:16:37,826 [INFO] ── Video #116 │ elapsed 27.4 min │ remaining 4.0 min ──────────────
+2026-03-06 20:16:38,719 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 20:16:44,973 [INFO] ── Video #117 │ elapsed 27.5 min │ remaining 3.9 min ──────────────
+2026-03-06 20:16:55,566 [INFO] Caption : surprising the bestie on her bdayu happy birthday buttercupll there's no one els
+2026-03-06 20:16:55,567 [INFO] Hashtags: #bestfriend #surprise #reaction #explore
+2026-03-06 20:16:56,040 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 20:16:56,977 [INFO] Label: {'label': 0} | niche_match=False
+2026-03-06 20:16:59,923 [INFO] ── Video #118 │ elapsed 27.8 min │ remaining 3.6 min ──────────────
+2026-03-06 20:17:08,943 [INFO] Caption : For the sake of your teachers sanity during comp season__ please show up for cla
+2026-03-06 20:17:08,945 [INFO] Hashtags: #vibenanaimo #vibrantdance #dancestudio
+2026-03-06 20:17:09,401 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 20:17:10,121 [INFO] Label: {'label': 0} | niche_match=False
+2026-03-06 20:17:15,145 [INFO] ── Video #119 │ elapsed 28.0 min │ remaining 3.4 min ──────────────
+2026-03-06 20:17:22,908 [INFO] Caption : ROBLOX AGE CHECK GOT WORSE kreekcraft
+2026-03-06 20:17:22,909 [INFO] Hashtags: #roblox #agecheck #edit
+2026-03-06 20:17:23,354 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 20:17:23,788 [INFO] Label: {'label': 1} | niche_match=True
+2026-03-06 20:17:23,788 [INFO] Niche match — watching extra 5.3s before engaging.
+2026-03-06 20:17:29,637 [INFO] Like count: 245
+2026-03-06 20:17:29,638 [INFO] Like count 245 below 5,000 threshold — skipping link save.
+2026-03-06 20:17:32,298 [INFO] ── Video #120 │ elapsed 28.3 min │ remaining 3.1 min ──────────────
+2026-03-06 20:17:38,346 [INFO] Caption : Cook the meals right_ or else
+2026-03-06 20:17:38,347 [INFO] Hashtags: None
+2026-03-06 20:17:38,800 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 20:17:39,728 [INFO] Label: {'label': 0} | niche_match=False
+2026-03-06 20:17:45,612 [INFO] ── Video #121 │ elapsed 28.5 min │ remaining 2.9 min ──────────────
+2026-03-06 20:18:02,338 [INFO] Caption : Minions are small, yellow, cylindrical creatures best known for their childlike 
+2026-03-06 20:18:02,339 [INFO] Hashtags: None
+2026-03-06 20:18:02,867 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 20:18:03,296 [INFO] Label: {'label': 0} | niche_match=False
+2026-03-06 20:18:07,693 [INFO] ── Video #122 │ elapsed 28.9 min │ remaining 2.5 min ──────────────
+2026-03-06 20:18:14,693 [INFO] Caption : We are a poor battle bots team donate in bio please
+2026-03-06 20:18:14,693 [INFO] Hashtags: #sugoi #yaoi #baka #yuri #sad
+2026-03-06 20:18:15,144 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 20:18:15,884 [INFO] Label: {'label': 0} | niche_match=False
+2026-03-06 20:18:21,718 [INFO] ── Video #123 │ elapsed 29.1 min │ remaining 2.2 min ──────────────
+2026-03-06 20:18:28,369 [INFO] Caption : grow up so fast TikTok/You Tube: akpranksters Game: Car Crash Studio Roblox
+2026-03-06 20:18:28,369 [INFO] Hashtags: #funny #roblox #robloxmemes #robloxgames They
+2026-03-06 20:18:28,816 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 20:18:29,183 [INFO] Label: {'label': 1} | niche_match=True
+2026-03-06 20:18:29,183 [INFO] Niche match — watching extra 6.0s before engaging.
+2026-03-06 20:18:35,647 [INFO] Like count: 239,944
+2026-03-06 20:18:37,959 [INFO] Liked video.
+2026-03-06 20:18:44,000 [INFO] Link copied: https://www.instagram.com/reel/DS5TlLyEfqD/?igsh=MWU4dGNhenM3YXN2cQ==
+2026-03-06 20:18:45,487 [INFO] Saved URL: https://www.instagram.com/reel/DS5TlLyEfqD/?igsh=MWU4dGNhenM3YXN2cQ==  (likes: 239,944)
+2026-03-06 20:18:51,718 [INFO] ── Video #124 │ elapsed 29.6 min │ remaining 1.7 min ──────────────
+2026-03-06 20:18:57,676 [INFO] Caption : Im sorryyy
+2026-03-06 20:18:57,677 [INFO] Hashtags: #fortnite #viral #fortniteclips
+2026-03-06 20:18:58,141 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 20:18:58,915 [INFO] Label: {'label': 0} | niche_match=False
+2026-03-06 20:19:04,622 [INFO] ── Video #125 │ elapsed 29.9 min │ remaining 1.5 min ──────────────
+2026-03-06 20:19:10,927 [INFO] Caption : Ur cooked lil bro
+2026-03-06 20:19:10,928 [INFO] Hashtags: #meme #dad #family #sister
+2026-03-06 20:19:11,371 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-06 20:19:11,974 [INFO] Label: {'label': 0} | niche_match=False
+2026-03-06 20:19:16,875 [INFO] ── Video #126 │ elapsed 30.1 min │ remaining 1.3 min ──────────────
+2026-03-06 20:19:17,216 [ERROR] extract_caption_and_hashtags error:
+Traceback (most recent call last):
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\uiautomator2\core.py", line 97, in connect
+    self.sock = self.__device.create_connection(adbutils.Network.TCP, self.__port)
+                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\adbutils\_device_base.py", line 610, in create_connection
+    return _connect(c)
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\adbutils\_device_base.py", line 591, in _connect
+    c.check_okay()
+    ~~~~~~~~~~~~^^
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\adbutils\_adb.py", line 192, in check_okay
+    raise AdbError(self.read_string_block())
+adbutils.errors.AdbError: closed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\uiautomator2\core.py", line 311, in jsonrpc_call
+    return _jsonrpc_call(self._dev, self._device_server_port, method, params, timeout, self._debug)
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\uiautomator2\core.py", line 173, in _jsonrpc_call
+    r = _http_request(dev, device_port, "POST", "/jsonrpc/0", payload, timeout=timeout, print_request=print_request)
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\uiautomator2\core.py", line 139, in _http_request
+    conn.request(method, path, json.dumps(data), headers=headers)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\http\client.py", line 1358, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\http\client.py", line 1404, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\http\client.py", line 1353, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\http\client.py", line 1113, in _send_output
+    self.send(msg)
+    ~~~~~~~~~^^^^^
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\http\client.py", line 1057, in send
+    self.connect()
+    ~~~~~~~~~~~~^^
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\uiautomator2\core.py", line 99, in connect
+    raise HTTPError(f"Unable to connect to uiautomator2 server: {e}") from e
+uiautomator2.exceptions.HTTPError: Unable to connect to uiautomator2 server: closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ROG STRIX G15\Desktop\insta_android_bot\insta_android_bot\src\scraper.py", line 160, in extract_caption_and_hashtags
+    if not vg_outer.exists:
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\uiautomator2\utils.py", line 131, in __bool__
+    return self.__nonzero__()
+           ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\uiautomator2\utils.py", line 127, in __nonzero__
+    return self.uiobject.jsonrpc.exist(self.uiobject.selector)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\uiautomator2\base.py", line 158, in __call__
+    return self.server.jsonrpc_call(self.method, params, http_timeout)
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\uiautomator2\core.py", line 315, in jsonrpc_call
+    self.start_uiautomator()
+    ~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\uiautomator2\core.py", line 231, in start_uiautomator
+    self._setup_jar()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\uiautomator2\core.py", line 242, in _setup_jar
+    if self._check_device_file_hash(jar_path, target_path):
+       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\uiautomator2\core.py", line 255, in _check_device_file_hash
+    output = self._dev.shell(["toybox", "md5sum", remote_file])
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\adbutils\_device_base.py", line 252, in shell
+    c = self.open_shell(cmdargs)
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\adbutils\_device_base.py", line 175, in open_shell
+    c = self.open_transport()
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\adbutils\_device_base.py", line 92, in open_transport
+    c.check_okay()
+    ~~~~~~~~~~~~^^
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\adbutils\_adb.py", line 192, in check_okay
+    raise AdbError(self.read_string_block())
+adbutils.errors.AdbError: device 'ROQKZT8PKJQODM5D' not found
+
+2026-03-06 20:19:17,219 [INFO] No caption/hashtags — applying no-match engagement only.
+2026-03-06 20:19:17,270 [INFO] Liked video (no-match organic roll).
+2026-03-06 20:19:17,302 [ERROR] Fatal error:
+Traceback (most recent call last):
+  File "C:\Users\ROG STRIX G15\Desktop\insta_android_bot\insta_android_bot\bot.py", line 70, in main
+    run_scroll_session(niche=niche)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\ROG STRIX G15\Desktop\insta_android_bot\insta_android_bot\src\scroll_session.py", line 99, in run_scroll_session
+    scraper.swipe_next_video()
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ROG STRIX G15\Desktop\insta_android_bot\insta_android_bot\src\scraper.py", line 503, in swipe_next_video
+    width, height = d.window_size()
+                    ~~~~~~~~~~~~~^^
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\uiautomator2\__init__.py", line 56, in window_size
+    w, h = self._dev.window_size()
+           ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\adbutils\shell.py", line 158, in window_size
+    wsize = self._wm_size()
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\adbutils\shell.py", line 165, in _wm_size
+    output = self.shell("wm size")
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\adbutils\_device_base.py", line 252, in shell
+    c = self.open_shell(cmdargs)
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\adbutils\_device_base.py", line 175, in open_shell
+    c = self.open_transport()
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\adbutils\_device_base.py", line 92, in open_transport
+    c.check_okay()
+    ~~~~~~~~~~~~^^
+  File "C:\Users\ROG STRIX G15\AppData\Local\Programs\Python\Python314\Lib\site-packages\adbutils\_adb.py", line 192, in check_okay
+    raise AdbError(self.read_string_block())
+adbutils.errors.AdbError: device 'ROQKZT8PKJQODM5D' not found
+
+2026-03-06 20:19:17,303 [INFO] ========== BOT STOPPED | total runtime: 30.1 min ==========
